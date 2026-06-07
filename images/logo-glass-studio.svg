@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 92" role="img" aria-label="Glass Studio">
+  <rect width="320" height="92" rx="8" fill="#ffffff"/>
+  <path d="M22 22h50v50H22z" fill="#07111f"/>
+  <path d="M34 36h26v8H42v7h16v8H34z" fill="#ffffff"/>
+  <path d="M82 25h206" stroke="#1478a8" stroke-width="4"/>
+  <text x="82" y="52" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="800" fill="#07111f">Glass Studio</text>
+  <text x="83" y="73" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" fill="#5e6a78">Inwest Pawel Kaniewski</text>
+</svg>
