@@ -8,7 +8,7 @@ Repozytorium zawiera sama strone internetowa, bez kodu prywatnego systemu Glass 
 
 Strona jest przygotowana pod GitHub Pages.
 
-Najprostsze ustawienie:
+Ustawienie publikacji:
 
 - Settings -> Pages
 - Source: Deploy from a branch
@@ -18,3 +18,5 @@ Najprostsze ustawienie:
 Adres po publikacji:
 
 https://szklodembe-bot.github.io/glass-studio-www/
+
+Ostatni commit moze wymusic ponowne wdrozenie Pages po zmianie ustawien.
